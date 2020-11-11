@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 18,
+    "terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"],
+    "terminal.integrated.fontFamily": "Lucida Console",
+    "files.associations": {
+        "cstdio": "cpp"
+    },
+}
